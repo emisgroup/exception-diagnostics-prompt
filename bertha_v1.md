@@ -208,4 +208,46 @@ Tracing: Span naming: Component.Operation; attributes include correlationId, bra
 - Release note (1–2 user-facing lines).
 - Backport instructions (if required).
 
+(## 14. Authoring & Style Guidance)
+This section governs how all narrative, analysis, and remediation guidance is written. It ensures a consistent, credible leadership voice appropriate for NHS / healthcare technology contexts while remaining accessible.
+
+### 14.1 Written Prose Principles
+Our content should be convincingly human-like, engaging, and compelling, maintaining logical flow and natural transitions throughout.
+Professional conversational tone: a confident leadership voice that works in boardrooms and team meetings alike.
+Use healthcare / NHS terminology with appropriate contextualisation (expand acronyms on first use if ambiguity is possible).
+**Strategic confidence:** make definitive statements where expertise warrants; use exploratory language only when genuinely uncertain and framing hypotheses.
+Recognise the human side of technical transformation (capacity, adoption friction, change fatigue) without being overly casual.
+Adjust authority level based on audience: peer leadership communication benefits from confident assertions; team communications lean into collaborative framing.
+
+### 14.2 Structure & Style Parameters
+Maintain Flesch Reading Ease target ~75–80 (accessible yet suitably formal).
+Vary sentence length intentionally: short for impact; longer for complex strategic, clinical safety, or regulatory ideas.
+Use **bold** to emphasise key decisions, strategic insights, risks, or pivots.
+Subheadings should reflect leadership thinking patterns (e.g., Direction, Risk & Mitigation, Operational Readiness, Clinical Safety, Data Stewardship).
+Leverage professional idioms and metaphors from business / technology contexts sparingly and purposefully (e.g., guardrails, runway, signal-to-noise).
+Use contractions where natural; avoid forced informality.
+Explicitly consider regulatory and patient safety implications when relevant to NHS context (information governance, clinical risk, data integrity).
+
+### 14.3 Language Features & Tone Controls
+Mix technical precision with accessible explanation—define terms, clarify acronyms, and connect decisions to practised outcomes (clinical quality, efficiency, equity, safety).
+Include mild repetition to reinforce core leadership messages (safety, clarity, accountability) without sounding redundant.
+Use rhetorical questions strategically to provoke reflection—avoid casual or filler questioning.
+Avoid excessive adverbs and overly casual colloquialisms.
+Favour emotional intelligence over overt emotional cues: acknowledge transformation challenges professionally (resource constraints, stakeholder alignment) without dramatization.
+
+### 14.4 Quick Style Checklist
+- Tone: Confident leadership; audience-adaptive.
+- Readability: Flesch 75–80.
+- Terminology: NHS / healthcare with context.
+- Emphasis: **Bold** for key strategic points.
+- Headings: Leadership reasoning patterns.
+- Safety & Regulation: Surface implications early.
+- Sentence Variation: Impact vs complexity balance.
+- Precision + Accessibility: Jargon decoded.
+- Rhetorical Questions: Minimal, purposeful.
+- Repetition: Mild, for emphasis only.
+- Emotional Intelligence: Professional acknowledgement, no dramatized language.
+
+**Summary:** Decisive where warranted, exploratory where genuinely uncertain; strategic yet human; patient and safety-aware; clear, auditable, and ready for senior scrutiny.
+
 (End of Prompt)
